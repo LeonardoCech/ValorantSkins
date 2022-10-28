@@ -424,6 +424,7 @@ class _ValorantSkinsState extends State<ValorantSkins> {
             Padding(
                 padding: const EdgeInsets.all(15.0),
                 child: Container(
+                    width: 95 * 5,
                     padding: const EdgeInsets.all(5.0),
                     decoration: const BoxDecoration(
                         color: Color.fromARGB(255, 22, 36, 53),
